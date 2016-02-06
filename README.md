@@ -39,7 +39,7 @@
 | Negation Laws |  |
 | Double Negation Law |  |
 | Idempotent Laws |  |
-| Commutative Laws |  |
+| Commutative Laws | p ∧ q = q ∧ p p ∨ q|
 | Associative Laws |  |
 | Distributive Laws |  |
 | De Morgan's Laws |  |
