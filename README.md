@@ -5,9 +5,6 @@
 # **Week 1**
 
 - I was introduced to a new subject called **Discrete Mathematics** or *DISMATH*
-
-# **Week 2**
-
 - I learned about logical connectives. The logical connectives are shown in the table below.
 
 | Operator | Symbol | Usage | Java/C++ |
@@ -36,13 +33,13 @@
 
 # **Week 2**
 
-- I was introduced to a new logic called **Predicate Logic**
+- I was introduced to a new lesson called **Predicate Logic**
 - I learned about quantifiers. 
   * **Existential Quantifier** (∃x) - "There exist" is true iff P(x) is true for at least one value in the x domain.
   * **Universal Quantifier** (∀x) - "For all" states that a predicate is true for any value in a particular domain.
 - I also learned about terminologies for **Rules of Inference**
   * **Argument** - A sequence of statements that end with a conclusion (p<sub>1</sub>∧p<sub>2</sub>∧p<sub>3</sub>∧...∧p<sub>n</sub>) → q
-  * **Valid** - The conclusion, or final statement of the argument, must follow from the truthe of the preceding statements, or premises, of the argument.
+  * **Valid** - The conclusion, or final statement of the argument, must follow from the truth of the preceding statements, or premises, of the argument.
   * **Fallacy** - Common form of an incorrect reasoning that leads to an invalid argument.
   * **Tautology** - Statement that is always *TRUE*.
 
