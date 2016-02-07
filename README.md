@@ -56,4 +56,42 @@
 | ¬q<br>p→q<br>____<br>∴ ¬p | (¬q∧(p→q))→¬p | Modus Tollens |
 | p→q<br>q→r<br>_____<br>∴ p→r | ((p→q)∧(q→r))→(p→r) | Hypothetical Syllogism |
 | p∨q<br>¬p<br>____<br>∴ q | ((p∨q)∧¬p)→q | Disjunctive Syllogism |
-| p<br>____<br>∴ p∨q | p→(p∨q) | Addition |
+| p<br>_____<br>∴ p∨q | p→(p∨q) | Addition |
+| p∧q<br>____<br>∴ p | (p∧q)→p | Simplification |
+| p<br>q<br>_____<br>∴ p∧q | ((p)∧(q))→(p∧q) | Conjunction |
+| p∨q<br>¬p∨r<br>_____<br>∴ q∨r | ((p∨q)∧(¬p∨r))→(q∨r) |
+
+- We had exercises about the Rules of Inference
+- I learned how to use the Rules of Inference in arguments and premises
+- I learned the difference between If-Then statements & If and only If (iff) statements.
+
+# **Week 4**
+
+- I learned about the different **Methods of Proof**.
+  - Direct Proof
+    * Steps:
+      1. Assume p is true
+      2. Show that q is also true, using (1).
+  - Proof by Contraposition (Indirect Proof)
+    * Steps:
+      1. Assume ¬q is a hypothesis
+      2. Show that ¬p must be true using definitions, and previously defined theorems.
+  - Vacuous Proof
+    * Steps:
+      1. Show that p is false
+      2. p→q must be true when p is false
+      3. ¬p→(p→q)
+  - Trivial Proof
+    * Steps:
+      1. Show that q is true
+      2. p→q must also be true
+      3. q→(p→q)
+  - Proof by Contradiction (Indirect)
+    * Steps:
+      1. Assume ¬p
+      2. Show that (1) ends up in a contradiction
+      3. ∴ p is proven to be true
+  - Proof by Equivalence (p↔q)↔\|(p→q)∧(q→p)\|
+    * Steps:
+      1. Show that p→q is true
+      2. Show that q→p is also true
