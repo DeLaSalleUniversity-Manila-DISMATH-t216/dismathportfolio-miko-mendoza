@@ -51,5 +51,9 @@
 - I learned about the rules of inference
 
 | Rule of Inference | Tautology | Name |
-| :---: | :---: | :---: |
+| ----- | :---: | :---: |
 | p<br>p→q<br>____<br>∴ q | (p∧(p→q))→q | Modus Ponens |
+| ¬q<br>p→q<br>____<br>∴ ¬p | (¬q∧(p→q))→¬p | Modus Tollens |
+| p→q<br>q→r<br>_____<br>∴ p→r | ((p→q)∧(q→r))→(p→r) | Hypothetical Syllogism |
+| p∨q<br>¬p<br>____<br>∴ q | ((p∨q)∧¬p)→q | Disjunctive Syllogism |
+| p<br>____<br>∴ p∨q | p→(p∨q) | Addition |
