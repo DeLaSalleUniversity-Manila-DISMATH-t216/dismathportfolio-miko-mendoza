@@ -92,3 +92,7 @@
     * Steps:
       1. Show that p→q is true
       2. Show that q→p is also true
+ 
+# **Week 5**
+- This week, we learned about mathematical induction.
+
