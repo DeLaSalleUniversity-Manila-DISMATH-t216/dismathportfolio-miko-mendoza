@@ -94,5 +94,32 @@
       2. Show that q→p is also true
  
 # **Week 5**
-- This week, we learned about mathematical induction.
+- We went back to recursive algorithms this week.
+- We also discussed about power sets.
 
+# **Week 6**
+- I learned about functions this week.
+    * A function 'f' is an assignment of exactly one element of its **range** to a **domain**
+    * A **one-to-one** function or the **injection** function is a function where every element of the range of the function corresponds to exactly one element of the domain.
+    * **Onto** function or **subjection** is a function where the functions have **equal** range and domain.
+    * **One-to-one** correspondence or **bijective** is **both** one-to-one and onto.
+
+# **Week 7**
+- We did not meet this week.
+
+# **Week 8**
+- We discussed about algorithms this week.
+    * **Algorithms** are a finite set of precise instructions for performing a computation or for solving a problem.
+    * **Pseudocodes** are a high-level description of an algorithm that uses the structural conventions of a programming language, but is intended for human reading.
+    * Some of the algorithms we learned are:
+       * **Searching Algorithms**:
+          * Linear Search
+          * Binary Search
+       * **Sorting Algorithms**:
+          * Bubble Sort
+          * Insertion Sort
+       * Greedy Algorithm 
+
+# **Week 9**
+- In the first meeting of the week, I learned about **Growth of Functions**.
+- 
