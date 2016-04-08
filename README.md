@@ -121,5 +121,31 @@
        * Greedy Algorithm 
 
 # **Week 9**
+- This week, I learned about sets.
+
+# **Week 10**
 - In the first meeting of the week, I learned about **Growth of Functions**.
-- 
+- I also learned about time complexity.
+    * Time complexity is usually denoted by Big-O, Big-Omega, or Big-Theta.
+- I also learned about the concept and the basics of cryptology.
+
+# **Week 11**
+- We did not have class because of Holy Week.
+
+# **Week 12**
+- For this week, I learned about:
+    * Graph Theory
+    * Euler Paths and Circuits
+    * Hamilton Paths and Circuits
+    * Isomorphic and Planar Graphs
+    * Kuratowski's Theorem
+
+# **Week 13**
+- This week, I learned about:
+    * Four-Color Theorem
+    * Trees
+       * Concepts, what trees are for and parts of a tree.
+    * Languages and Grammar
+    * Modeling Computations
+    * Finite State Machines
+
